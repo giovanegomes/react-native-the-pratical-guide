@@ -1,0 +1,1 @@
+Repository to track my progress in the course React Native - The pratical guide - Academind.
